@@ -174,7 +174,7 @@
         <div class="footer__grid">
           <div class="footer__brand">
             <h3>Mounika<span>.</span></h3>
-            <p>Computer Science Engineering Student &amp; Aspiring Software Developer. Open to entry-level opportunities and internships.</p>
+            <p>Computer Science Engineering Graduate &amp; Aspiring Software Developer. Open to entry-level opportunities and internships.</p>
             <div class="footer__social" style="margin-top:1rem">
               <a href="https://www.linkedin.com/in/mounika-bala-katyaini-devarapu" target="_blank" rel="noopener" aria-label="LinkedIn">
                 <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M19 3a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h14zM8.34 17.34v-7H6.67v7h1.67zM7.5 9.34a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm9.84 8v-3.84c0-1.67-.3-2.95-2.3-2.95-.94 0-1.57.51-1.83 1h-.03v-.85h-1.6v7h1.67v-3.47c0-.9.17-1.77 1.29-1.77 1.1 0 1.12 1.03 1.12 1.83v3.41h1.67z"/></svg>
