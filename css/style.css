@@ -827,45 +827,6 @@ p { color: var(--text-secondary); }
 .cert-card h3 { font-size: 1.15rem; }
 .cert-card__org { font-size: 0.9rem; color: var(--text-secondary); }
 
-/* ---------- Testimonials ---------- */
-.testi-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  gap: var(--space-3);
-}
-.testi-card {
-  background: var(--white);
-  border: 1px dashed var(--border);
-  border-radius: var(--radius-lg);
-  padding: var(--space-4);
-  position: relative;
-  transition: border-color var(--t-base), transform var(--t-base);
-}
-.testi-card:hover { border-color: var(--accent-pink); transform: translateY(-4px); }
-.testi-card__placeholder {
-  display: inline-block;
-  font-size: 0.72rem;
-  font-weight: 600;
-  letter-spacing: 0.1em;
-  text-transform: uppercase;
-  color: var(--accent-pink-dark);
-  background: var(--accent-pink-soft);
-  padding: 0.25rem 0.7rem;
-  border-radius: var(--radius-full);
-  margin-bottom: var(--space-2);
-}
-.testi-card__quote { font-size: 1.05rem; color: var(--text-secondary); font-style: italic; margin-bottom: var(--space-3); }
-.testi-card__author { font-weight: 600; }
-.testi-card__role { font-size: 0.85rem; color: var(--text-secondary); }
-.testi-card .quote-mark {
-  position: absolute;
-  top: var(--space-3); right: var(--space-3);
-  font-family: var(--font-heading);
-  font-size: 3rem;
-  color: var(--accent-pink-soft);
-  line-height: 1;
-}
-
 /* ---------- Gallery ---------- */
 .gallery-grid {
   display: grid;

@@ -123,7 +123,6 @@
     { href: 'experience.html', label: 'Experience' },
     { href: 'certifications.html', label: 'Certifications' },
     { href: 'gallery.html', label: 'Gallery' },
-    { href: 'testimonials.html', label: 'Testimonials' },
     { href: 'contact.html', label: 'Contact' }
   ];
 
@@ -200,7 +199,6 @@
               <li><a href="experience.html">Experience</a></li>
               <li><a href="certifications.html">Certifications</a></li>
               <li><a href="gallery.html">Gallery</a></li>
-              <li><a href="testimonials.html">Testimonials</a></li>
             </ul>
           </div>
           <div class="footer__col">

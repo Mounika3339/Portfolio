@@ -14,7 +14,6 @@ export default defineConfig({
         portfolio: resolve(__dirname, 'portfolio.html'),
         experience: resolve(__dirname, 'experience.html'),
         certifications: resolve(__dirname, 'certifications.html'),
-        testimonials: resolve(__dirname, 'testimonials.html'),
         gallery: resolve(__dirname, 'gallery.html'),
         contact: resolve(__dirname, 'contact.html')
       }
